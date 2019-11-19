@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574161061 source:c:\users\michal\desktop\projectnvs\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574160886 source:c:\users\michal\desktop\projectnvs\project\project\function2.c
+	<stdio.h>
+	<stdlib.h>
+
+1574161129 source:c:\users\michal\desktop\projectnvs\project\project\function8.c
+	<stdio.h>
+	<stdlib.h>
+
