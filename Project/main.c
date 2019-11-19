@@ -7,7 +7,7 @@ int main()
     int soustava;
     printf("Prosim zadejte cislo v desitkove soustave, ktere chcete prevest.\n");
     scanf("%d",&cislo);
-    printf("Prosim zadejte typ soustavy:\n [2] = Binarni soustava\n [8] = Oktalni soustava\n");
+    printf("Prosim zadejte typ soustavy:\n [2] = Binarni soustava\n [8] = Oktalni soustava\n [16] = Hexadekalni soustava\n");
     scanf("%d",&soustava);
     switch(soustava)
         {
@@ -17,6 +17,10 @@ int main()
 
         case 8:
             function8(cislo);
+        break;
+
+        case 16:
+            function16(cislo);
         break;
 
         default:
