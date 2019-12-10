@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1574167199 source:c:\users\michal\desktop\projectnvs\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574160886 source:c:\users\michal\desktop\projectnvs\project\project\function2.c
+	<stdio.h>
+	<stdlib.h>
+
+1574161129 source:c:\users\michal\desktop\projectnvs\project\project\function8.c
+	<stdio.h>
+	<stdlib.h>
+
+1574162773 source:c:\users\michal\desktop\projectnvs\project\project\function16.c
+
+1574167199 source:c:\users\michal\desktop\zapletal-pluskal nvs\code - codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574167596 source:c:\users\michal\desktop\zapletal-pluskal nvs\code - codeblocks\function16.c
+	<stdio.h>
+	<stdlib.h>
+
+1574167596 source:c:\users\michal\desktop\zapletal-pluskal nvs\code - codeblocks\function2.c
+	<stdio.h>
+	<stdlib.h>
+
+1574167596 source:c:\users\michal\desktop\zapletal-pluskal nvs\code - codeblocks\function8.c
+	<stdio.h>
+	<stdlib.h>
+
